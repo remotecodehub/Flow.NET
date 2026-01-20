@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageId>Flow.NET</PackageId>
+    <Authors>Weslley Luiz</Authors>
+    <Company>Remote Code Hub</Company>
+    <Description>High-performance mediator library for .NET</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/remotecodehub/Flow.NET</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
