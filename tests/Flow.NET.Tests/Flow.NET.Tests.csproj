@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\Flow.NET\Flow.NET.csproj" />
+    <ProjectReference Include="..\..\src\Abstractions.Flow.NET\Abstractions.Flow.NET.csproj" />
   </ItemGroup>
 
 </Project>

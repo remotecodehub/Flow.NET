@@ -1,20 +1,15 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <ItemGroup>
-    <ProjectReference Include="..\Abstractions.Flow.NET\Abstractions.Flow.NET.csproj" />
-  </ItemGroup>
-
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <DefaultNamespace>Flow</DefaultNamespace>
-    
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <PackageId>Flow.NET</PackageId>
+    <PackageId>Abstractions.Flow.NET</PackageId>
     <Authors>Weslley Luiz</Authors>
     <Company>Remote Code Hub</Company>
-    <Description>High-performance mediator library for .NET</Description>
+    <Description>Abstractions of the High-performance mediator library for .NET</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/remotecodehub/Flow.NET</RepositoryUrl>
   </PropertyGroup>
